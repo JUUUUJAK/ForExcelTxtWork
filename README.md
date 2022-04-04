@@ -5,8 +5,7 @@ Excel / Txt Counts
 Yolo v3 특성
 
 
-오프라인 작업
-
+ - 오프라인 작업
 
  - 태깅박스 데이터가 txt로 저장됨
 
